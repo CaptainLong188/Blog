@@ -54,3 +54,11 @@ body
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
 }
+
+footer
+{
+    text-align: center;
+    background-color: green;
+    height: auto;
+    padding : 10px; 
+}
