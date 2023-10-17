@@ -57,8 +57,9 @@ body
 
 footer
 {
+    color : white;
     text-align: center;
-    background-color: green;
+    background-color: cadetblue;
     height: auto;
     padding : 10px; 
 }
